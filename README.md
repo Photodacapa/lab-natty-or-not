@@ -41,7 +41,7 @@ Por fim, identificamos a realidade virtual como uma área promissora para futura
 
 No geral, os resultados do projeto forneceram uma visão abrangente e informada sobre o papel da IA no acompanhamento de crianças com autismo, destacando suas oportunidades e desafios e apontando para futuras direções de pesquisa e prática clínica.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 
 O projeto científico sobre o uso da inteligência artificial (IA) no acompanhamento de crianças com autismo nos proporcionou uma oportunidade única de explorar a interseção entre duas áreas de estudo e prática que têm o potencial de transformar vidas. Durante o curso do projeto, fomos levados a refletir sobre diversos aspectos, desde a importância da detecção precoce até a ética do uso de tecnologias emergentes.
 
