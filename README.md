@@ -41,7 +41,7 @@ Por fim, identificamos a realidade virtual como uma área promissora para futura
 
 No geral, os resultados do projeto forneceram uma visão abrangente e informada sobre o papel da IA no acompanhamento de crianças com autismo, destacando suas oportunidades e desafios e apontando para futuras direções de pesquisa e prática clínica.
 
-**[LINK DO ESTUDO CIENTIFICO](https://docs.google.com/document/d/e/2PACX-1vTQcxJDBK33DqYMM0RxPYK5NZKUWS-ajXPSu5CUFD_ntWLotJszCAUytTzPyGHz3pTjOTYeupQCoLDK/pub](https://docs.google.com/document/d/18oFVszMkq-3FCsACNyW2uHOEkl3fkDhagrtDaROnvGY/edit?usp=sharing )**
+**[LINK DO ESTUDO CIENTIFICO](https://docs.google.com/document/d/18oFVszMkq-3FCsACNyW2uHOEkl3fkDhagrtDaROnvGY/edit?usp=sharing)**
 
 ## 💭 Reflexão 
 
