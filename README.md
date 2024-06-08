@@ -14,7 +14,7 @@ Os resultados deste estudo têm o potencial de informar práticas clínicas e po
 
 ## 🤖 Tecnologias Utilizadas
 
-- IA Generativa ChatGPT para roteirização;
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
 - Ferramenta word para edição.
 
 
@@ -40,6 +40,8 @@ Exploramos também diversas ferramentas de comunicação e apoio social baseadas
 Por fim, identificamos a realidade virtual como uma área promissora para futuras pesquisas e inovações no campo do autismo. A hipótese apresentada sobre o potencial da realidade virtual na intervenção do autismo destacou uma possível direção para o desenvolvimento de novas ferramentas e abordagens terapêuticas.
 
 No geral, os resultados do projeto forneceram uma visão abrangente e informada sobre o papel da IA no acompanhamento de crianças com autismo, destacando suas oportunidades e desafios e apontando para futuras direções de pesquisa e prática clínica.
+
+**[LINK DO ESTUDO CIENTIFICO]([https://chat.openai.com][https://docs.google.com/document/d/e/2PACX-1vTQcxJDBK33DqYMM0RxPYK5NZKUWS-ajXPSu5CUFD_ntWLotJszCAUytTzPyGHz3pTjOTYeupQCoLDK/pub])**
 
 ## 💭 Reflexão 
 
